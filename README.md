@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaykr11cs. I am working as a Senior Software Developer with around 7 years of experience.
+- 👋 Hi, I’m @ajaykr11cs. I am working as a Lead Software Developer with around 10 years of experience.
 - 👀 I’m interested in designing modular and scalable softwares.
 - 🌱 I’m currently learning System Design and refreshing data structures.
 - 💞️ I’m looking to collaborate on System Designs.
